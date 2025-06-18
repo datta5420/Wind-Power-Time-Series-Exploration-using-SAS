@@ -1,1 +1,1 @@
-# Wind-Power-Time-Series-Exploration-using-SAS
+# Wind-Power-Time Series & Forecasting-using-SAS
